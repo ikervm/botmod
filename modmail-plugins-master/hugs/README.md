@@ -1,0 +1,2 @@
+# hugs
+Usage >> !hug @user
